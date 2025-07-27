@@ -6,7 +6,6 @@
     "rows": 6,
     "cols": 18
   },
-  "menus": [],
   "layouts": {
     "labels": [
       "Split Backspace",
@@ -14,9 +13,8 @@
       "7U Spacebar"
     ],
     "keymap": [
-      [
         [
-          "0.0",
+          "0,0",
           {"x": 1
           },
           "0,2",
@@ -189,7 +187,6 @@
           },
           "5,12\n\n\n2,1"
         ]
-      ]
     ]
   }
 }
